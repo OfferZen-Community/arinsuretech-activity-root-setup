@@ -39,13 +39,8 @@ You now have access to all of Root's insurance modules.
 - Copy your API key and save it somewhere - you'll need it later!
 - Click "close"
 
-Now that your account has all the required modules, and your API key is activated, you're ready to interact with the Root API! Don't forget to brag in your team channel.
+Now that your account has all the required modules, and your API key is activated, you're ready to interact with the Root API! Don't forget to brag in your team channel. 😎
 
 ## Further reading
 - [Root Insurance guides](https://app.root.co.za/docs/insurance/guides)
 - [Root Insurance API documentation](https://app.root.co.za/docs/insurance/api)
-
-
-- Check your team slack channel and bask in the glory of your great success! 🌈
-
-
