@@ -15,7 +15,7 @@ If you'd like some assistance at any point, chat to your team in the team channe
 ### Step 0: Set up your root account
 
 - You will receive an invitation email from Root to get started. Follow the invitation link and create your account.
-- If you haven't received an invitation yet, contact @dan on Make Slack.
+- If you haven't received an invitation yet, contact @robin on Make Slack.
 
 ### Step 1: Create an organization
 - Navigate to your [Root Insurance organization dashboard](https://app.root.co.za/organizations)
